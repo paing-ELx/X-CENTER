@@ -20,10 +20,11 @@ easyflowpos    		                 // used p03+eszyflow
 ```
 https://t.me/EasyFlowPOS    	    // primary 
 @EasyFlowPOS_Bot       	          // primary
+// @EasyFlowPOSPAx1_Bot
 ```
 ### [archived]
 ```
-https://t.me/EasyFlow_POS 
+https://t.me/EasyFlow_POS
 @EasyFlowMM_Bot
 ```
 
