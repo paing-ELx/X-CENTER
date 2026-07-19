@@ -8,19 +8,26 @@ polygoncloud.net
 n8n.polygoncloud.net
 ```
 
-### [Facebook]
+### [Socials]
 ```
+[Facebook]
 PolygonCloud.GBL
-```
 
-### [IG]
-```
+[IG]
 polygoncloudglobal
+
+[YouTube]
+https://www.youtube.com/@PolygonCloud_GBL
+
+[TikTok]
+https://www.tiktok.com/@polygoncloudglobal
+
+[X]
+https://x.com/PolygonCloudGBL
 ```
 
 ### [MISC]
 ```
-### [!!! TikTok]
 ### [!!! LinkedIn]
 [GitHub]
 https://github.com/Polygon-Cloud
