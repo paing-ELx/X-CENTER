@@ -36,11 +36,11 @@ https://github.com/Polygon-Cloud
 
 ### [Telegram]
 ```
-https://t.me/PolygonCloud   	    // primary 
-@EasyFlowPOS_Bot       	          // primary
-```
-### [archived]
-```
+https://t.me/PolygonCloudGlobal
+@PolygonCloud_Bot
+@PolygonCloudPAx1_Bot
+
+[archived]
 ```
 
 ---
